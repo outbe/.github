@@ -1,5 +1,5 @@
 ## What is Q Network?
-By granting contracts the power of an appchain, Q Network enables developers to build breakthrough applications and onboard users from anywhere and suppor TBD
+By granting contracts the power of an appchain, Q Network enables developers to build breakthrough applications and onboard users from anywhere and support TBD
 
 Q Network provides advanced cross-chain functionality that enables smart-contracts, suppoer retrieve data trustlessly over IBC. 
 
