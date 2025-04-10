@@ -1,5 +1,4 @@
 ## What is Q Network?
-Q Network is the [Integrated Application](https://blog.neutron.org/neutron-the-integrated-application-network-2944b2e2cade) Network. 
 By granting contracts the power of an appchain, Q Network enables developers to build breakthrough applications and onboard users from anywhere and suppor TBD
 
 Q Network provides advanced cross-chain functionality that enables smart-contracts, suppoer retrieve data trustlessly over IBC. 
