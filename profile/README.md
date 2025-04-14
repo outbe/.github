@@ -7,7 +7,7 @@ Q Network is a permissionless smart-contract platform built with [CometBFT](http
 
 ## Useful links
 
-### About Q Core Blockchain
+### About Q Network
 
 - [Website](https://qlabs.xyz/)
 - [Documentation](https://qlabs.xyz/docs.html)
