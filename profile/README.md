@@ -3,7 +3,7 @@ By granting contracts the power of an appchain, Q Network enables developers to 
 
 Q Network provides advanced cross-chain functionality that enables smart-contracts, suppoer retrieve data trustlessly over IBC. 
 
-Q Network is a permissionless smart-contract platform built with [Tendermint](https://docs.tendermint.com/), [CosmWasm](https://book.cosmwasm.com/) and the [Cosmos SDK](https://docs.cosmos.network/). CosmWasm smart-contracts are written in Rust. 
+Q Network is a permissionless smart-contract platform built with [CometBFT](), [CosmWasm](https://cometbft.com/) and the [Cosmos SDK](https://docs.cosmos.network/). CosmWasm smart-contracts are written in Rust. 
 
 ## Useful links
 
