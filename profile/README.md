@@ -7,10 +7,10 @@ Q Network is a permissionless smart-contract platform built with [CometBFT](http
 
 ## Useful links
 
-### About Neutron
+### About Q Core Blockchain
 
-- [Website](https://qlabs-xyz.github.io/)
-- [Documentation](TBD)
+- [Website](https://qlabs.xyz/)
+- [Documentation](https://qlabs.xyz/docs.html)
 - [Explorer](TBD)
 - [Audits](TBD)
 
