@@ -1,8 +1,9 @@
 ## outbe - decentralized blockchain network
 
-[Hub](https://www.outbe.io/)
+[Hub](https://www.outbe.com/)
 
 ### Find us on...
 
-- [X](https://x.com/outbe_com)
 - [Discord](https://discord.gg/rkM2eauE)
+- [X](https://x.com/outbe_com)
+
