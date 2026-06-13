@@ -1,4 +1,4 @@
-## OUTBE - decentralized blockchain network
+## outbe - decentralized blockchain network
 
 ### Find us on...
 
